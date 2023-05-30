@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Story of Raihan</string>
+    <string name="blank_fragment">This is a blank fragment</string>
+    <string name="welcome_text">HELLO! Welcome to my app,</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="min_password_8">Password must contain at least 8 characters</string>
+    <string name="must_fill_field">Field must be filled</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="register_text">Register</string>
+    <string name="new_user">Don\'t have an account?</string>
+    <string name="email">Please input your email..</string>
+    <string name="password">Please input your password..</string>
+    <string name="name">Please input your name..</string>
+    <string name="username">Username</string>
+    <string name="description">Story description:</string>
+    <string name="add_story">Add Story</string>
+    <string name="retry">Please retry</string>
+    <string name="upload_story">Upload Your Story</string>
+    <string name="camera_text">Snap your camera</string>
+    <string name="gallery_text">Choose from galery</string>
+    <string name="upload_text">Upload</string>
+    <string name="description_text">Please input story description..</string>
+    <string name="logout">Logout</string>
+    <string name="maps">Location Maps</string>
+    <string name="title_activity_maps">Find Other Stories</string>
+    <string name="made_by">Made by %s</string>
+</resources>
